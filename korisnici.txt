@@ -1,0 +1,6 @@
+Prodavac|prodavac021|prodavac021|Sara|Saric
+Prodavac|prodavac011|prodavac011|Dejan|Bozic
+Menadzer|menadzer021|menadzer021|Marko|Savic
+Menadzer|menadzer011|menadzer011|Jovan|Peric
+Administrator|admin|admin|Goran|Nikic
+Prodavac|nikola111|nikola111|Nikola|Aleksic

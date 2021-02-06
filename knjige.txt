@@ -1,0 +1,7 @@
+3421|Andjeli i Demoni|22rr|Den Braun|Laguna|777|2010|2100.0|roman|0
+0090|Braca Karamazov|22i2|Dostojevski|Solarius|808|2010|1299.99|roman|0
+4452|Da Vincijev kod|55t4|Den Braun|Vulkan|878|2010|1000.0|roman|0
+2239|Hazarski recnik|oo0o|Milorad Pavic|Prosveta|421|2010|560.0|roman|0
+7762|Stranac|22rf|Alber Kami|Vulkan|221|2020|465.0|roman|0
+8871|Luca mikrokozma|22i2|Petar Petrovic Njegos|Prosveta|200|2010|450.0|spev|0
+0000|Rat i mir|22anng|Tolstoj|Vulkan|1111|2000|2000.0|roman|1
